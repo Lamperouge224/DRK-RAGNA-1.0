@@ -1,6 +1,6 @@
 # 
 <p align="center">
-DRK-RAGNA
+DARK-GAMER
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +DRK-RAGNA-MD;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
@@ -12,14 +12,14 @@ DRK-RAGNA
   </a>
 </p>
 
-![DRK_ST_BUG](https://i.imgur.com/ZTgzeeP.jpeg)
+![DARK_GAMER_BUG](https://i.imgur.com/ZTgzeeP.jpeg)
 <p align="center">
 <a href="https://www.youtube.com/@DRK-TECH"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DRK-TECH" /><br>
 <a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
 <a href="https://t.me/+13472314632"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 ---
 
-## DEVELOPED BY 𝙎-𝙏𝞢𝞜
+## DEVELOPED BY ༺✪𝐃𝐀𝐑𝐊♛𝐆𝐀𝐌𝐄𝐑✪༻
 
 ---
 
