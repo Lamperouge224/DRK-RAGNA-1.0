@@ -12,7 +12,7 @@ DARK-GAMER
   </a>
 </p>
 
-![DARK_GAMER_BUG](https://i.imgur.com/ZTgzeeP.jpeg)
+![DARK_GAMER_BUG](https://files.catbox.moe/szcmcu.jpg)
 <p align="center">
 <a href="https://www.youtube.com/@DRK-TECH"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DRK-TECH" /><br>
 <a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
@@ -25,7 +25,7 @@ DARK-GAMER
 
 ## CREATE YOUR FORK
 <a href="https://github.com/Bot-hostin/DRK-RAGNA-1.0/fork">
-  <img title="𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨" src="https://img.shields.io/badge/FORK 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨-red?color=red&style=for-the-badge&logo=stackshare">
+  <img title="𝑫𝑹𝑲-𝐆𝐀𝐌𝐄𝐑" src="https://img.shields.io/badge/FORK 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
 ---
